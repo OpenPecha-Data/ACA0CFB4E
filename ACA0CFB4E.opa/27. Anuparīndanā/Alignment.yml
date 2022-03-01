@@ -1,0 +1,64 @@
+segment_sources:
+  P85CAE8AD:
+    type: origin_type
+    relation: translation
+    language: sa
+  P365A75AC:
+    type: origin_type
+    relation: translation
+    language: zh
+  PC35AFAFC:
+    type: origin_type
+    relation: translation
+    language: zh
+  P73CB3C25:
+    type: origin_type
+    relation: translation
+    language: bo
+  P7897FB7B:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  a68d405028ad49c6837d7e60d9c14431:
+    P85CAE8AD: d7962233bc16474ab604f30b1b67524b
+    P365A75AC: 550bb9c7facb4d38a70bbd9a56f569c8
+    PC35AFAFC: 88d7299df34643788cde86fba32c4b76
+    P73CB3C25: 0e8cde54035241f286be46105591450c
+    P7897FB7B: 139f6958c4bd4e2ca3100e32dd2c787f
+  44935cc358674cfe8f46c99de34aedc2:
+    P85CAE8AD: 403a6ad7f5ab4d72b901f3f425060f30
+    P365A75AC: 800d6cbf509641d7a1baaa8cc546c58a
+    PC35AFAFC: e30947f3f78e4d83851c8a26bf19d914
+    P73CB3C25: aaa7889feaa543f3a35f4c54e3ff1e23
+    P7897FB7B: 79390140aaf249be8555011008c33a69
+  c4a67dfba31c4fd1bbe4cf39755a633f:
+    P85CAE8AD: d31c17a35f9b4be9bee7e8150bd7438b
+    P365A75AC: c6bda7944ff24ed68c5134e2b6ed7388
+    PC35AFAFC: f88f93da77784b4ba1b0ba6c7a55c90f
+    P73CB3C25: af6acae00d4d40db9fb5eb2ac70af21c
+    P7897FB7B: c178b1b1b16e432bb8d40b167e48e6a3
+  c6413221c1cf43c5a60a57a0d199b608:
+    P85CAE8AD: c2478b8068bf4c39a870c273c0946096
+    P365A75AC: 20f4fc4254bc478cbb4bee39b96b05f4
+    PC35AFAFC: 8f79df40043945cba6a6fb72285016e1
+    P73CB3C25: 2d31da5849154f63ad47f498c9450b5c
+    P7897FB7B: dc5ff470a5ba466fafc7b2ef36618b7f
+  1b5447c7d2ab4da183fbdcc4439c3307:
+    P85CAE8AD: 610192163978424fbe2ec8c4812a6c74
+    P365A75AC: d0beb1138cb04f8cbe3f0ec73fd794af
+    PC35AFAFC: eeb2419b5a7443a3b00aa29a8fe2a24f
+    P73CB3C25: 7154cd18bb7d494cba8f1d7d8f073810
+    P7897FB7B: 2355c68168ac4cc1b3f8e7de3e020dc4
+  71644f119ef0466cae3cebe2b04ca091:
+    P85CAE8AD: 3f83e0ae87a740f9a4d0e181311fae51
+    P365A75AC: 8ff30064423047529a8ac7e4e3fcdefe
+    PC35AFAFC: 722981d123ea440f9d23ecda4c641fa7
+    P73CB3C25: 8bc1eb08dcef4948964f8d37db54eb4a
+    P7897FB7B: bebc686adc144841b6c31de3653ab39e
+  422d1b37a42349419e5a76d600f9254f:
+    P85CAE8AD: 94028673f903453b84667c3ed2b95bc2
+    P365A75AC: a0b79ca1964f4ef1bd21a027f0e243fa
+    PC35AFAFC: None
+    P73CB3C25: 4c8d6a57b6984413b40e399572bfb86a
+    P7897FB7B: eac5234d04804fc38f996e14ce3bb606
